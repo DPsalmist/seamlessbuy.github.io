@@ -1,3 +1,3 @@
 # seamlessbuy.github.io
 
-A landing page for seamlessBuy site
+A coming soon page for seamlessBuy site that allows users subscribe.
